@@ -1,0 +1,1 @@
+This is a simple calculator app for the Odin Project! Feel free to try it. 
