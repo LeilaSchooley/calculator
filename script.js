@@ -14,3 +14,6 @@ function operate(number, numberOne){
     return multiply(number, numberOne)
 
 }
+
+calculator_button = document.querySelectorAll("button")
+calculator_button.forEach(element => element.addEventListener('click', () => console.log(element)))
